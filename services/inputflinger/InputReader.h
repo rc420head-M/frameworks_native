@@ -145,7 +145,7 @@ struct InputReaderConfiguration {
         CHANGE_EXTERNAL_STYLUS_PRESENCE = 1 << 7,
 
         // Volume keys rotation option changed.
-        CHANGE_VOLUME_KEYS_ROTATION = 1 << 8,
+        CHANGE_VOLUME_KEYS_ROTATION = 1 << 7,
 
         // Stylus icon option changed.
         CHANGE_STYLUS_ICON_ENABLED = 1 << 9,
